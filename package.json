@@ -1,0 +1,24 @@
+{
+  "name": "pexel-cat-test",
+  "version": "0.0.1",
+  "description": "Puppeteer test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mocha",
+    "test",
+    "puppeteer"
+  ],
+  "author": "nnd",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "jest-image-snapshot": "^2.8.2",
+    "mocha": "^6.1.4",
+    "pending-xhr-puppeteer": "^2.0.0",
+    "pixelmatch": "^5.0.2",
+    "puppeteer": "^1.17.0"
+  }
+}
